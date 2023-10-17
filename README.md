@@ -1,5 +1,5 @@
 # Banking_Management_System
-# Banking_Management_System
+
 
 The project on Banking Management System is a Java-based application that utilizes JDBC (Java Database Connectivity) for backend database communication and Swings and AWT for the frontend user interface. The primary goal of this system is to provide efficient management of banks, branches, employees, and customer details with features like insertion, deletion, and updating of records.
 
